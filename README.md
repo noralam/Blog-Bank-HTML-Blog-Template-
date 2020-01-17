@@ -1,2 +1,17 @@
-# Blog-Bank-HTML-Blog-Template-
-Blog Bank is an awesome HTML blog template 
+# Blog Bank - Free Blog & Magazine Bootstrap Template
+Blog Bank is a pure and Modern Bootstrap free template. Blog Bank is best suited for Blog, News and Magazine related web site. Blog Bank is build on Bootstrap framework. We hope you will enjoy it and have a good time publishing your articles. Using Blog Bank template you’ll get a fully functional template in no time without any extra costs. As you see, there are endless possibilities for those who want to be bloggers and gain online popularity.
+
+## Features:
+
+Based on 1170px Grid System.
+Awesome Homepage Versions.
+07  Total Pages.
+Unique and Modern Style.
+Super Clear and Clean Layout.
+Awesome and Creative Design.
+Active and Hover Options.
+Fully Clear and Clean Design.
+Free Google Fonts.
+Free Font Based Icons.
+Easy to find the files name, folder, layers, groups.
+And many more…
