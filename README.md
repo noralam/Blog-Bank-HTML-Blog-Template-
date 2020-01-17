@@ -19,3 +19,6 @@ Blog Bank is a pure and Modern Bootstrap free template. Blog Bank is best suited
 * And many more…
 
 [Check full example's source code](http://preview.wpcolors.net/template/blog-bank-demo/).
+
+[Check WordPress Version](https://wpthemespace.com/product/blog-bank/).
+
